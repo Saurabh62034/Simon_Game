@@ -17,6 +17,13 @@ body {
 
 }
 
+#play{
+  font-size: larger;
+  background-color: rgb(238, 248, 135);
+  font-family: sans-serif;
+  cursor: pointer;
+}
+
 .btn {
   margin: 25px;
   display: inline-block;
@@ -24,6 +31,7 @@ body {
   width: 150px;
   border: 10px solid black;
   border-radius: 20%;
+  cursor: pointer;
 }
 
 .game-over {
