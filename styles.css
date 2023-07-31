@@ -18,7 +18,7 @@ body {
 }
 
 #play{
-  font-size: larger;
+  font-size: medium;
   background-color: rgb(238, 248, 135);
   font-family: sans-serif;
   cursor: pointer;
